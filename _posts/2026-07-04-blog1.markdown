@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "阿华个人博客"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"阿华的个人博客\""
 date:       2026-07-04 17:00:00
 author:     "ahua1245"
 header-style:  text
@@ -10,14 +10,16 @@ catalog: true
 tags:
     - web
     - JavaScript
-    - minlink导航
+    - minlink
 ---
 
 欢迎访问阿华的个人博客。
 
 ### 个人网站导航
-* [oplist-阿华的网盘](https://oplist.ahua.org.cn)
+* <a href="https://oplist.ahua.org.cn" target="_blank">oplist-阿华的网盘</a>
 * <a href="https://minlink.ahua.org.cn" target="_blank">minklink-短链系统</a>
 * <a href="https://sun-panel.ahua.org.cn" target="_blank">sun-panel-导航面板</a>
 
+### 第三方在线工具导航
+* <a href="https://share.lanol.cn/#/send" target="_blank">文件快递柜</a>
 
