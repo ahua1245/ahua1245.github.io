@@ -16,11 +16,8 @@ tags:
 欢迎访问阿华的个人博客。
 
 ### 个人网站导航
-#### oplist-阿华的网盘
-<a name="oplist" href="https://oplist.ahua.org.cn"></a>
-
-#### minklink-短链系统
-<a name="minklink" href="https://minlink.ahua.org.cn">
+* [oplist-阿华的网盘](https://oplist.ahua.org.cn)
+* <a name="minklink" href="https://minlink.ahua.org.cn">minklink-短链系统</a>
 
 
 
