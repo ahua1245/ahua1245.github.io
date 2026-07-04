@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Hello 2026"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2026-07-04 17:00:00
+author:     "ahua1245"
+header-style:  text
+header-img: ""
+catalog: true
+tags:
+    - web
+    - JavaScript
+    - minlink导航
+---
+
+欢迎访问阿华的个人博客。
+
+### 个人网站导航
+#### oplist-阿华的网盘
+<a name="oplist" href="https://oplist.ahua.org.cn"></a>
+
+#### minklink-短链系统
+<a name="minklink" href="https://minlink.ahua.org.cn">
+
+
+
