@@ -17,7 +17,6 @@ tags:
 
 ### 个人网站导航
 * [oplist-阿华的网盘](https://oplist.ahua.org.cn)
-* <a name="minklink" href="https://minlink.ahua.org.cn">minklink-短链系统</a>
-
-
+* <a href="https://minlink.ahua.org.cn" target="_blank">minklink-短链系统</a>
+* <a href="https://sun-panel.ahua.org.cn" target="_blank">sun-panel-导航面板</a>
 
